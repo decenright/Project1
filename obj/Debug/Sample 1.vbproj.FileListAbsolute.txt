@@ -1,0 +1,9 @@
+H:\web design\Project Example\Sample 1\Sample 1\bin\Sample 1.dll.config
+H:\web design\Project Example\Sample 1\Sample 1\bin\Sample 1.dll
+H:\web design\Project Example\Sample 1\Sample 1\bin\Sample 1.pdb
+H:\web design\Project Example\Sample 1\Sample 1\bin\Sample 1.xml
+H:\web design\Project Example\Sample 1\Sample 1\obj\Debug\Sample_1.Resources.resources
+H:\web design\Project Example\Sample 1\Sample 1\obj\Debug\Sample 1.vbproj.GenerateResource.Cache
+H:\web design\Project Example\Sample 1\Sample 1\obj\Debug\Sample 1.dll
+H:\web design\Project Example\Sample 1\Sample 1\obj\Debug\Sample 1.xml
+H:\web design\Project Example\Sample 1\Sample 1\obj\Debug\Sample 1.pdb
